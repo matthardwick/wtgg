@@ -1,0 +1,16 @@
+title: 'Where the Garden Grows Preschool'
+author:
+  name: 'Lisa Telesco'
+  email: lisa@wtggpreschool.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Where the Garden Grows is a Preschool in Fresno California'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

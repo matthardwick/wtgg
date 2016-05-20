@@ -1,0 +1,11 @@
+email: lisa@wtggpreschool.com
+access:
+  admin:
+    login: 'true'
+    super: 'true'
+    plugins: 'false'
+    themes: 'false'
+fullname: 'Lisa Telesco'
+state: enabled
+hashed_password: $2y$10$wW7Fa7IlRohI.fSsIc3iXuOmYjrGdEn67QyeoW5mvekMHjKuuHG7K
+language: en

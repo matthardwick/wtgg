@@ -1,0 +1,11 @@
+enabled: true
+from: mhardwick@dmig.com
+to: mhardwick@dmig.com
+mailer:
+  engine: smtp
+  smtp:
+    encryption: none
+  sendmail:
+    bin: /usr/sbin/sendmail
+content_type: text/html
+debug: false
